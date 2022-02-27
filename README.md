@@ -1,2 +1,2 @@
 # binar-mahfudz
-app punya binas
+app-binar
